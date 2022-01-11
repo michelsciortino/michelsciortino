@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Michel Sciortino</h1>
-<h3 align="center">A passionate Software Engineer from Italy</h3>
+<h3 align="center">A passionate Software Engineer from Italy 🇮🇹</h3>
 </br>
 Born in Turin and raised in the beautiful countryside around it, I've always had a passion for computers .
 
