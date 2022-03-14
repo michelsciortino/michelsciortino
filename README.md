@@ -11,11 +11,11 @@ In summer 2013, I moved to Bandon in Ireland for a study/work vacation and I wor
 customers using computers.
 
 At the end of my vacation I decided to join university in Computer Engineering course at Politecnico di Torino (Italy)
-where I had the opportunity to take part in many projects developing my skill on mobile, web and backend programming.
+where I had the opportunity to take part in many projects developing my skills on mobile, web and backend programming.
 
 After receiving my MSc in Computer Networks and Cloud Computing in 2020, I joined <a
     href="https://it.linkedin.com/company/iriscube-reply" target="_blank">Iriscube Reply</a> as a Software Engineer
-Cosultant, where I currently contribute on the design and implementation of scalable microservice architectures and
+Consultant, where I currently contribute on the design and implementation of scalable microservice architectures and
 Serverless applications for important customers of the Italian financial sector, such as Intesa Sanpaolo and UniCredit.
 
 <img src="https://raw.githubusercontent.com/michelsciortino/michelsciortino/main/dog.svg" width="100%" height="40">
