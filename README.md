@@ -19,7 +19,7 @@ Consultant, where I have contributed on the design and implementation of scalabl
 Serverless applications for important customers of the Italian financial sector.
 
 In September 2022 I joined <a href="https://it.linkedin.com/company/storm-reply" target="_blank">Storm Reply</a> where
-I broadened and strengthened my knowledge on AWS and implemented many project for customers all around Europe,
+I broadened and strengthened my knowledge on AWS and implemented many projects for customers all around Europe,
 ranging from serverless computation to the implementation of data platforms to perform ETL on large datasets.
 
 <img src="https://raw.githubusercontent.com/michelsciortino/michelsciortino/main/dog.svg" width="100%" height="40">
