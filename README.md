@@ -15,8 +15,12 @@ where I had the opportunity to take part in many projects developing my skills o
 
 After receiving my MSc in Computer Networks and Cloud Computing in 2020, I joined <a
     href="https://it.linkedin.com/company/iriscube-reply" target="_blank">Iriscube Reply</a> as a Software Engineer
-Consultant, where I currently contribute on the design and implementation of scalable microservice architectures and
-Serverless applications for important customers of the Italian financial sector, such as Intesa Sanpaolo and UniCredit.
+Consultant, where I have contributed on the design and implementation of scalable microservice architectures and
+Serverless applications for important customers of the Italian financial sector.
+
+In September 2022 I joined <a href="https://it.linkedin.com/company/storm-reply" target="_blank">Storm Reply</a> where
+I broadened and strengthened my knowledge on AWS and implemented many project for customers all around Europe,
+ranging from serverless computation to the implementation of data platforms to perform ETL on large datasets.
 
 <img src="https://raw.githubusercontent.com/michelsciortino/michelsciortino/main/dog.svg" width="100%" height="40">
 
@@ -44,7 +48,7 @@ Serverless applications for important customers of the Italian financial sector,
     </a>
 </p>
 
-<h3 align="">GitHub Stats:</h3>
+<!--h3 align="">GitHub Stats:</h3>
 <p align="left" style="height: 0"> <img
         src="https://komarev.com/ghpvc/?username=michelsciortino&label=Profile%20views&color=e69100&style=flat-square&label=Views+in+2022"
         alt="michelsciortino" />
@@ -54,4 +58,4 @@ Serverless applications for important customers of the Italian financial sector,
         width="48%" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=michelsciortino&ring=e69100&currStreakNum=e69100&sideNums=e69100&sideLabels=e69100&dates=e69100&background=0000&hide_border=true&count_private=true"
         width="48%" />
-</p>
+</p-->
