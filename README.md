@@ -18,9 +18,9 @@ After receiving my MSc in Computer Networks and Cloud Computing in 2020, I joine
 Consultant, where I have contributed on the design and implementation of scalable microservice architectures and
 Serverless applications for important customers of the Italian financial sector.
 
-In September 2022 I joined <a href="https://it.linkedin.com/company/storm-reply" target="_blank">Storm Reply</a> where
-I broadened and strengthened my knowledge on AWS and implemented many projects for customers all around Europe,
-ranging from serverless computation to the implementation of data platforms to perform ETL on large datasets.
+In September 2022 I joined <a href="https://it.linkedin.com/company/storm-reply" target="_blank">Storm Reply</a> as a Cloud Architect, where
+I am broadening and strengthening my knowledge on AWS, implementing many projects for customers all around Europe,
+ranging from serverless computation to the implementation of Cloud Data Platforms to perform ETL on large datasets.
 
 <img src="https://raw.githubusercontent.com/michelsciortino/michelsciortino/main/dog.svg" width="100%" height="40">
 
